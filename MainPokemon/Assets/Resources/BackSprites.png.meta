@@ -1,0 +1,133 @@
+fileFormatVersion: 2
+guid: c1928e56e467c4631871bacd57209cc0
+timeCreated: 1444188045
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: CharmanderBack
+    21300002: BulbasaurBack
+    21300004: SquirtleBack
+    21300006: PikachuBack
+    21300008: BackSprites_0
+    21300010: RattataBack
+    21300012: PidgeyBack
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 32
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: CharmanderBack
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 179
+        width: 48
+        height: 54
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BulbasaurBack
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 179
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SquirtleBack
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 117
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PikachuBack
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1302
+        width: 54
+        height: 52
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BackSprites_0
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1263
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RattataBack
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1357
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PidgeyBack
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 1415
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

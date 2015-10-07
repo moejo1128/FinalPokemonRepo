@@ -1,0 +1,2916 @@
+fileFormatVersion: 2
+guid: c87377fe7b05a4678a7485122fe69c65
+timeCreated: 1444190156
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PokemonSprites_0
+    21300002: PokemonSprites_1
+    21300004: PokemonSprites_2
+    21300006: PokemonSprites_3
+    21300008: PokemonSprites_4
+    21300010: PokemonSprites_5
+    21300012: PokemonSprites_6
+    21300014: PokemonSprites_7
+    21300016: PokemonSprites_8
+    21300018: PokemonSprites_9
+    21300020: PokemonSprites_10
+    21300022: PokemonSprites_11
+    21300024: PokemonSprites_12
+    21300026: PokemonSprites_13
+    21300028: PokemonSprites_14
+    21300030: PokemonSprites_15
+    21300032: PokemonSprites_16
+    21300034: PokemonSprites_17
+    21300036: PokemonSprites_18
+    21300038: PokemonSprites_19
+    21300040: PokemonSprites_20
+    21300042: PokemonSprites_21
+    21300044: PokemonSprites_22
+    21300046: PokemonSprites_23
+    21300048: PokemonSprites_24
+    21300050: PokemonSprites_25
+    21300052: PokemonSprites_26
+    21300054: PokemonSprites_27
+    21300056: PokemonSprites_28
+    21300058: PokemonSprites_29
+    21300060: PokemonSprites_30
+    21300062: PokemonSprites_31
+    21300064: PokemonSprites_32
+    21300066: PokemonSprites_33
+    21300068: PokemonSprites_34
+    21300070: PokemonSprites_35
+    21300072: PokemonSprites_36
+    21300074: PokemonSprites_37
+    21300076: PokemonSprites_38
+    21300078: PokemonSprites_39
+    21300080: PokemonSprites_40
+    21300082: PokemonSprites_41
+    21300084: PokemonSprites_42
+    21300086: PokemonSprites_43
+    21300088: PokemonSprites_44
+    21300090: PokemonSprites_45
+    21300092: PokemonSprites_46
+    21300094: PokemonSprites_47
+    21300096: PokemonSprites_48
+    21300098: PokemonSprites_49
+    21300100: PokemonSprites_50
+    21300102: PokemonSprites_51
+    21300104: PokemonSprites_52
+    21300106: PokemonSprites_53
+    21300108: PokemonSprites_54
+    21300110: PokemonSprites_55
+    21300112: PokemonSprites_56
+    21300114: PokemonSprites_57
+    21300116: PokemonSprites_58
+    21300118: PokemonSprites_59
+    21300120: PokemonSprites_60
+    21300122: PokemonSprites_61
+    21300124: PokemonSprites_62
+    21300126: PokemonSprites_63
+    21300128: PokemonSprites_64
+    21300130: PokemonSprites_65
+    21300132: PokemonSprites_66
+    21300134: PokemonSprites_67
+    21300136: PokemonSprites_68
+    21300138: PokemonSprites_69
+    21300140: PokemonSprites_70
+    21300142: PokemonSprites_71
+    21300144: PokemonSprites_72
+    21300146: PokemonSprites_73
+    21300148: PokemonSprites_74
+    21300150: PokemonSprites_75
+    21300152: PokemonSprites_76
+    21300154: PokemonSprites_77
+    21300156: PokemonSprites_78
+    21300158: PokemonSprites_79
+    21300160: PokemonSprites_80
+    21300162: PokemonSprites_81
+    21300164: PokemonSprites_82
+    21300166: PokemonSprites_83
+    21300168: PokemonSprites_84
+    21300170: PokemonSprites_85
+    21300172: PokemonSprites_86
+    21300174: PokemonSprites_87
+    21300176: PokemonSprites_88
+    21300178: PokemonSprites_89
+    21300180: PokemonSprites_90
+    21300182: PokemonSprites_91
+    21300184: PokemonSprites_92
+    21300186: PokemonSprites_93
+    21300188: PokemonSprites_94
+    21300190: PokemonSprites_95
+    21300192: PokemonSprites_96
+    21300194: PokemonSprites_97
+    21300196: PokemonSprites_98
+    21300198: PokemonSprites_99
+    21300200: PokemonSprites_100
+    21300202: PokemonSprites_101
+    21300204: PokemonSprites_102
+    21300206: PokemonSprites_103
+    21300208: PokemonSprites_104
+    21300210: PokemonSprites_105
+    21300212: PokemonSprites_106
+    21300214: PokemonSprites_107
+    21300216: PokemonSprites_108
+    21300218: PokemonSprites_109
+    21300220: PokemonSprites_110
+    21300222: PokemonSprites_111
+    21300224: PokemonSprites_112
+    21300226: PokemonSprites_113
+    21300228: PokemonSprites_114
+    21300230: PokemonSprites_115
+    21300232: PokemonSprites_116
+    21300234: PokemonSprites_117
+    21300236: PokemonSprites_118
+    21300238: PokemonSprites_119
+    21300240: PokemonSprites_120
+    21300242: PokemonSprites_121
+    21300244: PokemonSprites_122
+    21300246: PokemonSprites_123
+    21300248: PokemonSprites_124
+    21300250: PokemonSprites_125
+    21300252: PokemonSprites_126
+    21300254: PokemonSprites_127
+    21300256: PokemonSprites_128
+    21300258: PokemonSprites_129
+    21300260: PokemonSprites_130
+    21300262: PokemonSprites_131
+    21300264: PokemonSprites_132
+    21300266: PokemonSprites_133
+    21300268: PokemonSprites_134
+    21300270: PokemonSprites_135
+    21300272: PokemonSprites_136
+    21300274: PokemonSprites_137
+    21300276: PokemonSprites_138
+    21300278: PokemonSprites_139
+    21300280: PokemonSprites_140
+    21300282: PokemonSprites_141
+    21300284: PokemonSprites_142
+    21300286: PokemonSprites_143
+    21300288: PokemonSprites_144
+    21300290: PokemonSprites_145
+    21300292: PokemonSprites_146
+    21300294: PokemonSprites_147
+    21300296: PokemonSprites_148
+    21300298: PokemonSprites_149
+    21300300: PokemonSprites_150
+    21300302: PokemonSprites_151
+    21300304: PokemonSprites_152
+    21300306: PokemonSprites_153
+    21300308: PokemonSprites_154
+    21300310: PokemonSprites_155
+    21300312: PokemonSprites_156
+    21300314: PokemonSprites_157
+    21300316: PokemonSprites_158
+    21300318: PokemonSprites_159
+    21300320: PokemonSprites_160
+    21300322: PokemonSprites_161
+    21300324: PokemonSprites_162
+    21300326: PokemonSprites_163
+    21300328: PokemonSprites_164
+    21300330: PokemonSprites_165
+    21300332: PokemonSprites_166
+    21300334: PokemonSprites_167
+    21300336: PokemonSprites_168
+    21300338: PokemonSprites_169
+    21300340: PokemonSprites_170
+    21300342: PokemonSprites_171
+    21300344: PokemonSprites_172
+    21300346: PokemonSprites_173
+    21300348: PokemonSprites_174
+    21300350: PokemonSprites_175
+    21300352: PokemonSprites_176
+    21300354: PokemonSprites_177
+    21300356: PokemonSprites_178
+    21300358: PokemonSprites_179
+    21300360: PokemonSprites_180
+    21300362: PokemonSprites_181
+    21300364: PokemonSprites_182
+    21300366: PokemonSprites_183
+    21300368: PokemonSprites_184
+    21300370: PokemonSprites_185
+    21300372: PokemonSprites_186
+    21300374: PokemonSprites_187
+    21300376: PokemonSprites_188
+    21300378: PokemonSprites_189
+    21300380: PokemonSprites_190
+    21300382: PokemonSprites_191
+    21300384: PokemonSprites_192
+    21300386: PokemonSprites_193
+    21300388: PokemonSprites_194
+    21300390: PokemonSprites_195
+    21300392: PokemonSprites_196
+    21300394: PokemonSprites_197
+    21300396: PokemonSprites_198
+    21300398: PokemonSprites_199
+    21300400: PokemonSprites_200
+    21300402: PokemonSprites_201
+    21300404: PokemonSprites_202
+    21300406: PokemonSprites_203
+    21300408: PokemonSprites_204
+    21300410: PokemonSprites_205
+    21300412: PokemonSprites_206
+    21300414: PokemonSprites_207
+    21300416: PokemonSprites_208
+    21300418: PokemonSprites_209
+    21300420: PokemonSprites_210
+    21300422: PokemonSprites_211
+    21300424: PokemonSprites_212
+    21300426: PokemonSprites_213
+    21300428: PokemonSprites_214
+    21300430: PokemonSprites_215
+    21300432: PokemonSprites_216
+    21300434: PokemonSprites_217
+    21300436: PokemonSprites_218
+    21300438: PokemonSprites_219
+    21300440: PokemonSprites_220
+    21300442: PokemonSprites_221
+    21300444: PokemonSprites_222
+    21300446: PokemonSprites_223
+    21300448: PokemonSprites_224
+    21300450: PokemonSprites_225
+    21300452: PokemonSprites_226
+    21300454: PokemonSprites_227
+    21300456: PokemonSprites_228
+    21300458: PokemonSprites_229
+    21300460: PokemonSprites_230
+    21300462: PokemonSprites_231
+    21300464: PokemonSprites_232
+    21300466: PokemonSprites_233
+    21300468: PokemonSprites_234
+    21300470: PokemonSprites_235
+    21300472: PokemonSprites_236
+    21300474: PokemonSprites_237
+    21300476: PokemonSprites_238
+    21300478: PokemonSprites_239
+    21300480: PokemonSprites_240
+    21300482: PokemonSprites_241
+    21300484: PokemonSprites_242
+    21300486: PokemonSprites_243
+    21300488: PokemonSprites_244
+    21300490: PokemonSprites_245
+    21300492: PokemonSprites_246
+    21300494: PokemonSprites_247
+    21300496: PokemonSprites_248
+    21300498: PokemonSprites_249
+    21300500: PokemonSprites_250
+    21300502: PokemonSprites_251
+    21300504: PokemonSprites_252
+    21300506: PokemonSprites_253
+    21300508: PokemonSprites_254
+    21300510: PokemonSprites_255
+    21300512: PokemonSprites_256
+    21300514: PokemonSprites_257
+    21300516: PokemonSprites_258
+    21300518: PokemonSprites_259
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: PokemonSprites_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1608
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_1
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1608
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_2
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1608
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_3
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1608
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_4
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1608
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_5
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1608
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_6
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1608
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_7
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1608
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_8
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1608
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_9
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 1608
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_10
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1544
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_11
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1544
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_12
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1544
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_13
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1544
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_14
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1544
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_15
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1544
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_16
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1544
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_17
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1544
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_18
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1544
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_19
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 1544
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_20
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1480
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_21
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1480
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_22
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1480
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_23
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1480
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_24
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1480
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_25
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1480
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_26
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1480
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_27
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1480
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_28
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1480
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_29
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 1480
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_30
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1416
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_31
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1416
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_32
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1416
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_33
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1416
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_34
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1416
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_35
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1416
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_36
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1416
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_37
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1416
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_38
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1416
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_39
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 1416
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_40
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1352
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_41
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1352
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_42
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1352
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_43
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1352
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_44
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1352
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_45
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1352
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_46
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1352
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_47
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1352
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_48
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1352
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_49
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 1352
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_50
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1288
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_51
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1288
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_52
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1288
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_53
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1288
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_54
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1288
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_55
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1288
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_56
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1288
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_57
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1288
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_58
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1288
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_59
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 1288
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_60
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1224
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_61
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1224
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_62
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1224
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_63
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1224
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_64
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1224
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_65
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1224
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_66
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1224
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_67
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1224
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_68
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1224
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_69
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 1224
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_70
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1160
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_71
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1160
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_72
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1160
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_73
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1160
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_74
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1160
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_75
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1160
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_76
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1160
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_77
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1160
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_78
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1160
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_79
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 1160
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_80
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1096
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_81
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1096
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_82
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1096
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_83
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1096
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_84
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1096
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_85
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1096
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_86
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1096
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_87
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1096
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_88
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1096
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_89
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 1096
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_90
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1032
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_91
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1032
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_92
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1032
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_93
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1032
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_94
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1032
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_95
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1032
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_96
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1032
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_97
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1032
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_98
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1032
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_99
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 1032
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_100
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 968
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_101
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 968
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_102
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 968
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_103
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 968
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_104
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 968
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_105
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 968
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_106
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 968
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_107
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 968
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_108
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 968
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_109
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 968
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_110
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 904
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_111
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 904
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_112
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 904
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_113
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 904
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_114
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 904
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_115
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 904
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_116
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 904
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_117
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 904
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_118
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 904
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_119
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 904
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_120
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 840
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_121
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 840
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_122
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 840
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_123
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 840
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_124
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 840
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_125
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 840
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_126
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 840
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_127
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 840
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_128
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 840
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_129
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 840
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_130
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 776
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_131
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 776
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_132
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 776
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_133
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 776
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_134
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 776
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_135
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 776
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_136
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 776
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_137
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 776
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_138
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 776
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_139
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 776
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_140
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 712
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_141
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 712
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_142
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 712
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_143
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 712
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_144
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 712
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_145
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 712
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_146
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 712
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_147
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 712
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_148
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 712
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_149
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 712
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_150
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 648
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_151
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 648
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_152
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 648
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_153
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 648
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_154
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 648
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_155
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 648
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_156
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 648
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_157
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 648
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_158
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 648
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_159
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 648
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_160
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 584
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_161
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 584
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_162
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 584
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_163
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 584
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_164
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 584
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_165
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 584
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_166
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 584
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_167
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 584
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_168
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 584
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_169
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 584
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_170
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 520
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_171
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 520
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_172
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 520
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_173
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 520
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_174
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 520
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_175
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 520
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_176
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 520
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_177
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 520
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_178
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 520
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_179
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 520
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_180
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 456
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_181
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 456
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_182
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 456
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_183
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 456
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_184
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 456
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_185
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 456
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_186
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 456
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_187
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 456
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_188
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 456
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_189
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 456
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_190
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 392
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_191
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 392
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_192
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 392
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_193
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 392
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_194
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 392
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_195
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 392
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_196
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 392
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_197
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 392
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_198
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 392
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_199
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 392
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_200
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 328
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_201
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 328
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_202
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 328
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_203
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 328
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_204
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 328
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_205
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 328
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_206
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 328
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_207
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 328
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_208
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 328
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_209
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 328
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_210
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 264
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_211
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 264
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_212
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 264
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_213
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 264
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_214
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 264
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_215
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 264
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_216
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 264
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_217
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 264
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_218
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 264
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_219
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 264
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_220
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 200
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_221
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 200
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_222
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 200
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_223
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 200
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_224
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 200
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_225
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 200
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_226
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 200
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_227
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 200
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_228
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 200
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_229
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 200
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_230
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 136
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_231
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 136
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_232
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 136
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_233
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 136
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_234
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 136
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_235
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 136
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_236
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 136
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_237
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 136
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_238
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 136
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_239
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 136
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_240
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 72
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_241
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 72
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_242
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 72
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_243
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 72
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_244
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 72
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_245
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 72
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_246
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 72
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_247
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 72
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_248
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 72
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_249
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 72
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_250
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 8
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_251
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 8
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_252
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 8
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_253
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 8
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_254
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 8
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_255
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 8
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_256
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 8
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_257
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 8
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_258
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 8
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PokemonSprites_259
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 8
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

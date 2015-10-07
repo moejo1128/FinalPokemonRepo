@@ -1,0 +1,3051 @@
+fileFormatVersion: 2
+guid: 11d070c09291e4d649b0f6b8a5f92fd9
+timeCreated: 1443546193
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: NPCSprites_0
+    21300002: Woman_Left
+    21300004: Woman_Down
+    21300006: Woman_Up
+    21300008: NPCSprites_1
+    21300010: NPCSprites_2
+    21300012: NPCSprites_3
+    21300014: NPCSprites_4
+    21300016: NPCSprites_5
+    21300018: NPCSprites_6
+    21300020: NPCSprites_7
+    21300022: NPCSprites_8
+    21300024: NPCSprites_9
+    21300026: NPCSprites_10
+    21300028: NPCSprites_11
+    21300030: NPCSprites_12
+    21300032: NPCSprites_13
+    21300034: NPCSprites_14
+    21300036: NPCSprites_15
+    21300038: NPCSprites_16
+    21300040: NPCSprites_17
+    21300042: NPCSprites_18
+    21300044: NPCSprites_19
+    21300046: NPCSprites_20
+    21300048: NPCSprites_21
+    21300050: NPCSprites_22
+    21300052: NPCSprites_23
+    21300054: NPCSprites_24
+    21300056: NPCSprites_25
+    21300058: NPCSprites_26
+    21300060: NPCSprites_27
+    21300062: NPCSprites_28
+    21300064: NPCSprites_29
+    21300066: NPCSprites_30
+    21300068: NPCSprites_31
+    21300070: NPCSprites_32
+    21300072: NPCSprites_33
+    21300074: NPCSprites_34
+    21300076: NPCSprites_35
+    21300078: NPCSprites_36
+    21300080: NPCSprites_37
+    21300082: NPCSprites_38
+    21300084: NPCSprites_39
+    21300086: NPCSprites_40
+    21300088: NPCSprites_41
+    21300090: NPCSprites_42
+    21300092: NPCSprites_43
+    21300094: NPCSprites_44
+    21300096: NPCSprites_45
+    21300098: NPCSprites_46
+    21300100: NPCSprites_47
+    21300102: NPCSprites_48
+    21300104: NPCSprites_49
+    21300106: NPCSprites_50
+    21300108: NPCSprites_51
+    21300110: NPCSprites_52
+    21300112: NPCSprites_53
+    21300114: NPCSprites_54
+    21300116: NPCSprites_55
+    21300118: NPCSprites_56
+    21300120: NPCSprites_57
+    21300122: NPCSprites_58
+    21300124: NPCSprites_59
+    21300126: NPCSprites_60
+    21300128: NPCSprites_61
+    21300130: NPCSprites_62
+    21300132: NPCSprites_63
+    21300134: NPCSprites_64
+    21300136: NPCSprites_65
+    21300138: NPCSprites_66
+    21300140: NPCSprites_67
+    21300142: NPCSprites_68
+    21300144: NPCSprites_69
+    21300146: NPCSprites_70
+    21300148: NPCSprites_71
+    21300150: NPCSprites_72
+    21300152: NPCSprites_73
+    21300154: NPCSprites_74
+    21300156: NPCSprites_75
+    21300158: NPCSprites_76
+    21300160: NPCSprites_77
+    21300162: NPCSprites_78
+    21300164: NPCSprites_79
+    21300166: NPCSprites_80
+    21300168: NPCSprites_81
+    21300170: NPCSprites_82
+    21300172: NPCSprites_83
+    21300174: NPCSprites_84
+    21300176: NPCSprites_85
+    21300178: NPCSprites_86
+    21300180: NPCSprites_87
+    21300182: NPCSprites_88
+    21300184: NPCSprites_89
+    21300186: NPCSprites_90
+    21300188: NPCSprites_91
+    21300190: NPCSprites_92
+    21300192: NPCSprites_93
+    21300194: NPCSprites_94
+    21300196: NPCSprites_95
+    21300198: NPCSprites_96
+    21300200: NPCSprites_97
+    21300202: NPCSprites_98
+    21300204: NPCSprites_99
+    21300206: NPCSprites_100
+    21300208: NPCSprites_101
+    21300210: NPCSprites_102
+    21300212: NPCSprites_103
+    21300214: NPCSprites_104
+    21300216: NPCSprites_105
+    21300218: NPCSprites_106
+    21300220: NPCSprites_107
+    21300222: NPCSprites_108
+    21300224: NPCSprites_109
+    21300226: NPCSprites_110
+    21300228: NPCSprites_111
+    21300230: NPCSprites_112
+    21300232: NPCSprites_113
+    21300234: NPCSprites_114
+    21300236: NPCSprites_115
+    21300238: NPCSprites_116
+    21300240: NPCSprites_117
+    21300242: NPCSprites_118
+    21300244: NPCSprites_119
+    21300246: NPCSprites_120
+    21300248: NPCSprites_121
+    21300250: NPCSprites_122
+    21300252: NPCSprites_123
+    21300254: NPCSprites_124
+    21300256: NPCSprites_125
+    21300258: NPCSprites_126
+    21300260: NPCSprites_127
+    21300262: NPCSprites_128
+    21300264: NPCSprites_129
+    21300266: NPCSprites_130
+    21300268: NPCSprites_131
+    21300270: NPCSprites_132
+    21300272: NPCSprites_133
+    21300274: NPCSprites_134
+    21300276: NPCSprites_135
+    21300278: NPCSprites_136
+    21300280: NPCSprites_137
+    21300282: NPCSprites_138
+    21300284: NPCSprites_139
+    21300286: NPCSprites_140
+    21300288: NPCSprites_141
+    21300290: NPCSprites_142
+    21300292: NPCSprites_143
+    21300294: NPCSprites_144
+    21300296: NPCSprites_145
+    21300298: NPCSprites_146
+    21300300: NPCSprites_147
+    21300302: NPCSprites_148
+    21300304: NPCSprites_149
+    21300306: NPCSprites_150
+    21300308: NPCSprites_151
+    21300310: NPCSprites_152
+    21300312: NPCSprites_153
+    21300314: NPCSprites_154
+    21300316: NPCSprites_155
+    21300318: NPCSprites_156
+    21300320: NPCSprites_157
+    21300322: NPCSprites_158
+    21300324: NPCSprites_159
+    21300326: NPCSprites_160
+    21300328: NPCSprites_161
+    21300330: NPCSprites_162
+    21300332: NPCSprites_163
+    21300334: NPCSprites_164
+    21300336: NPCSprites_165
+    21300338: NPCSprites_166
+    21300340: NPCSprites_167
+    21300342: NPCSprites_168
+    21300344: NPCSprites_169
+    21300346: NPCSprites_170
+    21300348: NPCSprites_171
+    21300350: NPCSprites_172
+    21300352: NPCSprites_173
+    21300354: NPCSprites_174
+    21300356: NPCSprites_175
+    21300358: NPCSprites_176
+    21300360: NPCSprites_177
+    21300362: NPCSprites_178
+    21300364: NPCSprites_179
+    21300366: NPCSprites_180
+    21300368: NPCSprites_181
+    21300370: NPCSprites_182
+    21300372: NPCSprites_183
+    21300374: NPCSprites_184
+    21300376: NPCSprites_185
+    21300378: NPCSprites_186
+    21300380: NPCSprites_187
+    21300382: NPCSprites_188
+    21300384: NPCSprites_189
+    21300386: NPCSprites_190
+    21300388: NPCSprites_191
+    21300390: NPCSprites_192
+    21300392: NPCSprites_193
+    21300394: NPCSprites_194
+    21300396: NPCSprites_195
+    21300398: NPCSprites_196
+    21300400: NPCSprites_197
+    21300402: NPCSprites_198
+    21300404: NPCSprites_199
+    21300406: NPCSprites_200
+    21300408: NPCSprites_201
+    21300410: NPCSprites_202
+    21300412: NPCSprites_203
+    21300414: NPCSprites_204
+    21300416: NPCSprites_205
+    21300418: NPCSprites_206
+    21300420: NPCSprites_207
+    21300422: NPCSprites_208
+    21300424: NPCSprites_209
+    21300426: NPCSprites_210
+    21300428: NPCSprites_211
+    21300430: NPCSprites_212
+    21300432: NPCSprites_213
+    21300434: NPCSprites_214
+    21300436: NPCSprites_215
+    21300438: NPCSprites_216
+    21300440: NPCSprites_217
+    21300442: NPCSprites_218
+    21300444: NPCSprites_219
+    21300446: NPCSprites_220
+    21300448: NPCSprites_221
+    21300450: NPCSprites_222
+    21300452: NPCSprites_223
+    21300454: NPCSprites_224
+    21300456: NPCSprites_225
+    21300458: NPCSprites_226
+    21300460: NPCSprites_227
+    21300462: NPCSprites_228
+    21300464: NPCSprites_229
+    21300466: NPCSprites_230
+    21300468: NPCSprites_231
+    21300470: NPCSprites_232
+    21300472: NPCSprites_233
+    21300474: NPCSprites_234
+    21300476: NPCSprites_235
+    21300478: NPCSprites_236
+    21300480: NPCSprites_237
+    21300482: NPCSprites_238
+    21300484: NPCSprites_239
+    21300486: NPCSprites_240
+    21300488: NPCSprites_241
+    21300490: NPCSprites_242
+    21300492: NPCSprites_243
+    21300494: NPCSprites_244
+    21300496: NPCSprites_245
+    21300498: NPCSprites_246
+    21300500: NPCSprites_247
+    21300502: NPCSprites_248
+    21300504: NPCSprites_249
+    21300506: NPCSprites_250
+    21300508: NPCSprites_251
+    21300510: NPCSprites_252
+    21300512: NPCSprites_253
+    21300514: NPCSprites_254
+    21300516: NPCSprites_255
+    21300518: NPCSprites_256
+    21300520: NPCSprites_257
+    21300522: NPCSprites_258
+    21300524: NPCSprites_259
+    21300526: NPCSprites_260
+    21300528: NPCSprites_261
+    21300530: NPCSprites_262
+    21300532: NPCSprites_263
+    21300534: NPCSprites_264
+    21300536: NPCSprites_265
+    21300538: NPCSprites_266
+    21300540: NPCSprites_267
+    21300542: NPCSprites_268
+    21300544: NPCSprites_269
+    21300546: NPCSprites_270
+    21300548: NPCSprites_271
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 16
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: NPCSprites_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 267
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 267
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_2
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 267
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_3
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 267
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_4
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 267
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_5
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 267
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_6
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 267
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_7
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 267
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_8
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 267
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_9
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 267
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_10
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 267
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_11
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 267
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_12
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 267
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_13
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 267
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_14
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 267
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_15
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 267
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_16
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 251
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_17
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 251
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_18
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 251
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_19
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 251
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_20
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 251
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_21
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 251
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_22
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 251
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_23
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 251
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_24
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 251
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_25
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 251
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_26
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 251
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_27
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 251
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_28
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 251
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_29
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 251
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_30
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 251
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_31
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 251
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_32
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 235
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_33
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 235
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_34
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 235
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_35
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 235
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_36
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 235
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_37
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 235
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_38
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 235
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_39
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 235
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_40
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 235
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_41
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 235
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_42
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 235
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_43
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 235
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_44
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 235
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_45
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 235
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_46
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 235
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_47
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 235
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_48
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 219
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_49
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 219
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_50
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 219
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_51
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 219
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_52
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 219
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_53
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 219
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_54
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 219
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_55
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 219
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_56
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 219
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_57
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 219
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_58
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 219
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_59
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 219
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_60
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 219
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_61
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 219
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_62
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 219
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_63
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 219
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_64
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 203
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_65
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 203
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_66
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 203
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_67
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 203
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_68
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 203
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_69
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 203
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_70
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 203
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_71
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 203
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_72
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 203
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_73
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 203
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_74
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 203
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_75
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 203
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_76
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 203
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_77
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 203
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_78
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 203
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_79
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 203
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_80
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 187
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_81
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 187
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_82
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 187
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_83
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 187
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_84
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 187
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_85
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 187
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_86
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 187
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_87
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 187
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_88
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 187
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_89
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 187
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_90
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 187
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_91
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 187
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_92
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 187
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_93
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 187
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_94
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 187
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_95
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 187
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_96
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_97
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_98
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_99
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_100
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_101
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_102
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_103
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_104
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_105
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_106
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_107
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_108
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_109
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_110
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_111
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_112
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 155
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_113
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 155
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_114
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 155
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_115
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 155
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_116
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 155
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_117
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 155
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_118
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 155
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_119
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 155
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_120
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 155
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_121
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 155
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_122
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 155
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_123
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 155
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_124
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 155
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_125
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 155
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_126
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 155
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_127
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 155
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_128
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 139
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_129
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 139
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_130
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 139
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_131
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 139
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_132
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 139
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_133
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 139
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_134
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 139
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_135
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 139
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_136
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 139
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_137
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 139
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_138
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 139
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_139
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 139
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_140
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 139
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_141
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 139
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_142
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 139
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_143
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 139
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_144
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 123
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_145
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 123
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_146
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 123
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_147
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 123
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_148
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 123
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_149
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 123
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_150
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 123
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_151
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 123
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_152
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 123
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_153
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 123
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_154
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 123
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_155
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 123
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_156
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 123
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_157
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 123
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_158
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 123
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_159
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 123
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_160
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 107
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_161
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 107
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_162
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 107
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_163
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 107
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_164
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 107
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_165
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 107
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_166
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 107
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_167
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 107
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_168
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 107
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_169
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 107
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_170
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 107
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_171
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 107
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_172
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 107
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_173
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 107
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_174
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 107
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_175
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 107
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_176
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_177
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_178
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_179
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_180
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_181
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_182
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_183
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_184
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_185
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_186
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_187
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_188
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_189
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_190
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_191
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_192
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 75
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_193
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 75
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_194
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 75
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_195
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 75
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_196
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 75
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_197
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 75
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_198
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 75
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_199
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 75
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_200
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 75
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_201
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 75
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_202
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 75
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_203
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 75
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_204
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 75
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_205
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 75
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_206
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 75
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_207
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 75
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_208
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 59
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_209
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 59
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_210
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 59
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_211
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 59
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_212
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 59
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_213
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 59
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_214
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 59
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_215
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 59
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_216
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 59
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_217
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 59
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_218
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 59
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_219
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 59
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_220
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 59
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_221
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 59
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_222
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 59
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_223
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 59
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_224
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 43
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_225
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 43
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_226
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 43
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_227
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 43
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_228
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 43
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_229
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 43
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_230
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 43
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_231
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 43
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_232
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 43
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_233
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 43
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_234
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 43
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_235
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 43
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_236
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 43
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_237
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 43
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_238
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 43
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_239
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 43
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_240
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 27
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_241
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 27
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_242
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 27
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_243
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 27
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_244
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 27
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_245
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 27
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_246
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 27
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_247
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 27
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_248
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 27
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_249
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 27
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_250
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 27
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_251
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 27
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_252
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 27
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_253
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 27
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_254
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 27
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_255
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 27
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_256
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 11
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_257
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 11
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_258
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 11
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_259
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 11
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_260
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 11
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_261
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 11
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_262
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 11
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_263
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 11
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_264
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 11
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_265
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 11
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_266
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 11
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_267
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 11
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_268
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 11
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_269
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 11
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_270
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 11
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NPCSprites_271
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 11
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
